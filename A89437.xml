@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My Lord of Pembrokes speech to His Maiesty, concerning the treaty: vpon the commissioners arrivall at Newport, in the Isle of Wight, Saturday Sept. 16. An Dom. 1648. / Taken verbatim by Michael Oldsworth.</title>
+            <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89437</idno>
+            <idno type="STC">Wing M3169A</idno>
+            <idno type="STC">ESTC R202960</idno>
+            <idno type="EEBO-CITATION">45578394</idno>
+            <idno type="OCLC">ocm 45578394</idno>
+            <idno type="VID">172317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172317)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>My Lord of Pembrokes speech to His Maiesty, concerning the treaty: vpon the commissioners arrivall at Newport, in the Isle of Wight, Saturday Sept. 16. An Dom. 1648. / Taken verbatim by Michael Oldsworth.</title>
+                  <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+                  <author>Oldisworth, Michael, 1591-1654?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172317:1"/>
+            <p>MY LORD OF PEMBROKES SPEECH TO HIS <hi>MAIESTY,</hi> CONCERNING THE TREATY: Vpon the Commiſsioners arrivall at <hi>Newport,</hi> in the Iſle of <hi>Wight,</hi> Saturday Sept. 16. <hi>An. Dom.</hi> 1648. taken <hi>verbatim</hi> by <hi>Michael Oldſworth.</hi>
+            </p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:172317:2"/>
+            <pb n="3" facs="tcp:172317:2"/>
+            <head>
+               <hi>My Lord of</hi> Pembrokes <hi>Speech to His Majeſty, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Majeſty:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE are once more ſent by the <hi>Parli<g ref="char:EOLhyphen"/>ament of England</hi> to Treat with you, concerning the ſettlement of a ſafe and well grounded peace; but as God ſhall judge me, I feare to as little purpoſe it will prove, as that at <hi>
+                  <g ref="char:V">Ʋ</g>xbridge,</hi> or <hi>Hampton-Court;</hi> yet becauſe of the clamours of the people, wee are reſolved once more to Treat with you; yet for all wee Treat, wee would have you thinke that wee ſcorne to intreat, wee are in a bet<g ref="char:EOLhyphen"/>ter condition then ſo.</p>
+            <p>
+               <hi>Dam me,</hi> were the reſt in my minde, there ſhould not want much Treating; every man hath not the gift of Trea<g ref="char:EOLhyphen"/>ting, no more have I, and by-God I thinke the Propoſiti<g ref="char:EOLhyphen"/>ons are able enough to Treat for themſelves; and there<g ref="char:EOLhyphen"/>fore your Majeſty may ſave the labour of Treating, and ſigne them, which if you will, ſo, if not ſo againe; wee muſt returne from the place from whence wee came, and you againe to <hi>Carisbroke Caſtle:</hi> Your Majeſty cannot ſay but you are in Freedome, Safety, and Honour, and have your ſervants about you, and therefore wee ſuddainly
+<pb n="4" facs="tcp:172317:3"/>expect your Anſwer: <hi>Dam me,</hi> the Kingdome muſt not be remed for a King; wee may have more Kings, but wee can have no more ſuch Kingdomes; and if your Majeſty will ſtill bee an Enemy to the Kingdome, the Kingdome muſt be an Enemy to You, and may, and will depoſe You, or diſpoſe of You (whom they have made their Steward) at their pleaſure, and then elect another.</p>
+            <p>You cannot expect the Kingdome to be ſo tame and co<g ref="char:EOLhyphen"/>wardly, as to let you ſtrike them, and they not turne againe; nor our ſelves ſo ſimple and fooliſh (but upon very good conditions) to aſſiſt and bring in the Kingdomes Steward, or Vice-Roy, to fight with, ſtrike and conquer it ſelfe: <hi>Dam me,</hi> I cannot imagine that the Vice-Roy ſhould be above the Roy, nor that <hi>Rex</hi> ſhould have any other ſenſe, then to Rule, not Raigne: Is a People for a King, or a King for a People?</p>
+            <p>What a Pox, are wee blinde that wee cannot under<g ref="char:EOLhyphen"/>ſtand this? My Lords pray reſolve me, whether is the meanes, or the end King?</p>
+            <p>Is not the people Supreame, doe they not make a King, and have they not power to marre a King? Whether is Phyſick or health King? I ſay <hi>REX</hi> is Ruler, not King, and ſo by <hi>REX</hi> wee all are Kings, or none are Kings: If Rulers be unruly, pray who muſt Rule them? muſt not the moſt powerfull? and pray who is more powerfull then the People, that have ſo many hands? Therefore in my judge<g ref="char:EOLhyphen"/>ment a King in a Kingdome, is no other then a Lord Mayor of a City; the Mayor is by <hi>REX</hi> King of the City, in re<g ref="char:EOLhyphen"/>ſpect of all ſubordinates, theſe are only Titles and no more. Damme, I know I ſpeake againſt my ſelfe, for I write PHILIP Earle of PEMBROKE, and if I take up Armes and fight againſt PEMBROKE, and rob and kill them of PEMBROKE, may not the People of PEMBROKE reſiſt me? and am not I a Rebell and Traytour to them<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:172317:3"/>
+The Lord Mayor is by <hi>REX,</hi> King of the City; but if my Lord Mayor take up Armes againſt the City, or rob them by Sea or Land, or Rebell and Traytour them, burne their houſes, &amp;c. Is not the Mayor a Traytour, a Rebell, for ſo doing? I pray you my Leige reſolve me.</p>
+            <p>But you may object, the Parliament hath wronged you; pray right your ſelfe if you can, without wronging the Kingdome, and then wee will ſay ſomething to you.</p>
+            <p>Have not I beene wronged, nay wronged by the Par<g ref="char:EOLhyphen"/>liament, wronged by the City, wronged, laughed, and jea<g ref="char:EOLhyphen"/>red at by the Univerſity of OXFORD; becauſe I acted vigourouſly according to the Orders of Parliament, flung out Anti-Chriſt from his Seate, and ſet Lambes for innocence, and Doves for wiſdome, in their places; but muſt I wrong the Parliament, the City, the Univerſity, for that againe, and ſtrike the next man I meete withall? much leſſe my Lord and King the Kingdome.</p>
+            <p>My Leige, I pray doe not take me for a Traytour, and a Rebell: <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ds death, I had rather ſuffer a thouſand Deaths, then endanger the death of my Lord and Soveraigne the Kingdome; Your Majety muſt pardon me in that; I will not ſay to Your Majeſty <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Your owne Countrey men the Scots, that You are the firſt, and Originall Cauſe of all the bloodſhed in the three Kingdomes; But <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mit you were the firſt Cauſe, then thoſe aſſiſting you are the ſecond cauſe, and ſo the Scots themſelves are the third Cauſe, who have lately betrayed their Lives, Liberties, and Eſtates into our hands, and are now our Slaves and Vaſſalls; therefore, &amp;c.</p>
+            <p>But for our parts (my Lord) wee hope wee are more wiſe, then by ſuch meanes to foment our owne miſeries, or by ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> owne treachery to forfeit our Lives or Eſtates, to any but the State it ſelfe, and for the State it ſelfe: and for my owne part am reſolved, and ſo I thinke are the reſt, to fight againſt any that ſhall fight againſt our Soveraigne King the Kingdome, who is Your King, my King, and every mans King elſe.</p>
+            <p>
+               <pb n="6" facs="tcp:172317:4"/>
+Yet notwithſtanding all this, the Parliament have ſo low condiſcended beneath themſelves, unto Your Majeſty, that they have made us their COMMISSIONERS to Treat with You; they have recalled their owne Votes of ma<g ref="char:EOLhyphen"/>king no more Addreſſes unto You; they have ordered ten thouſand pounds for defraying the charge of the Treaty, whereof ſix thouſand pound Your Majeſty is to have for the uſe of your ſelfe, and thoſe aſſiſting about You; and wee Commiſſioners but three thouſand pounds: therefore who thinke you will be gainers? They have ſent unto You Dr. REEVE and Dr. DUCK, and I thinke the Devill and all; 'Zblood, are they not Parties, and muſt they treat in their owne Cauſe, or muſt wee treat with Parties? My Lords you may doe as you will, but I'le doe as I liſt.</p>
+            <p>If Your Majeſty do ſuddenly recall all the Declarations, Proteſtations, and the like, that have proclaimed us Traytors, Rebells, &amp;c. You may; if You will not, You may chuſe, for I am reſolved; for Religion, for all I am Chancellor of OXFORD, it ſhall never trouble mee; I thanke GOD I have Religion enough to ſay my pra<g ref="char:EOLhyphen"/>yers, and for more I care not, but will returne it to my Chaplaine, or Your Majeſty, to doe therein as You pleaſe: For the MILITIA, and IRELAND, my Lord of SALISBURY, and my Lord of MIDDLE<g ref="char:EOLhyphen"/>SEX can tell you more then my ſelfe, and ſo can my Lord SAY, and SEALE too: I thinke I have ſayd e<g ref="char:EOLhyphen"/>nough, and if any one can SAY more let them; I ſay, and ſay againe, That if Your Majeſty will ſigne to the PROPOSITIONS, it will ſave a great deale of SAY<g ref="char:EOLhyphen"/>ING more; words are but winde, and my winde-pipe growes hoarſe with ſpeaking this; I had rather ſee Deeds, then Words: Saying is one thing, and Doing is another. The Scripture (I heard my Chaplaine ſay) ſayth in one place, <hi>Doe this and live;</hi> and ſo I may ſay by the PROPO<g ref="char:EOLhyphen"/>SITIONS, <hi>Signe theſe and live:</hi> Doe ſo, and then expect
+<pb n="7" facs="tcp:172317:4"/>to be Great and Glorious, for ſo I heard the Parliament ſay; but if not, wee ſhall referre you to the ARMY to bee ordered as they ſhall thinke fit; yet let mee tell you, a Coach and Horſes are comming to your Majeſty, and good Sacke, and accordingly (as you behave your ſelfe) you ſhall have other Proviſions neceſſary. If your Majeſty will ſtand ſtill in your owne light, doe? Then you muſt expect what will light on you after: for my owne part, I have diſchar<g ref="char:EOLhyphen"/>ged my conſcience, and never uſed to be tedious in my ex<g ref="char:EOLhyphen"/>preſſions. I know we come to Treat, and Treat wee will, before wee go hence, and I hope it will bee for the good of the Kingdome, the Parliament, and Army; I have a long time knowne Your Majeſty, and You have knowne mee, 'tis my deſire that wee may ſtill bee friends, and lovers, nothing but ruine comes by diſſentions; and though the ſupreame authority bee in the people, yet if they ſhall intruſt it ſtill in you, I ſhall not bee againſt it, nor the reſt that are to Treat with you, that you may have Your negative voice in Parliament as well as my ſelfe, or the reſt of the Lords.</p>
+            <p>May it pleaſe Your Majeſty, I am no Indepen<g ref="char:EOLhyphen"/>dent, yet ſo farre an Independent, that I would have a dependency on Your Majeſty and the reſt; I never loved Warre; for I alwayes would rather pocket up wroungs, then incenſe, or foment Warres, as it was knowne to Your Royall Father, and cannot bee un<g ref="char:EOLhyphen"/>knowne to Your ſelfe; Dam me, I deſire Peace, no man more, and if wee have not Peace, then wee muſt expect warre; and if wee have warre then wee ſhall have no Peace. Now I have done, and deliver up what is ſaid to the Judgement of Your Majeſty, and all ingenious, and honeſt men.</p>
+            <p>
+               <pb n="8" facs="tcp:172317:5"/>
+If any one can ſpeake better, I pray heare them, for my owne part I ſhall give way, and ſtand for a Cypher amongſt the reſt.</p>
+            <closer>
+               <signed>Yours, <hi>Pembroke,</hi> and <hi>Montgomery.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="authentication">
+            <p>Vera Copia.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
